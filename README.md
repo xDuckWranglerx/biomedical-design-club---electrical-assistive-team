@@ -5,4 +5,4 @@
 
 //Sensors: FSR 402 
 
-This is meant to be the schematic for the cushion's microcontroller and its respective sensors. 
+This is meant to be the schematic for the cushion's microcontroller and its respective sensors. Each file is replaced with the most updated version as changes are made. 
