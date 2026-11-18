@@ -9,5 +9,5 @@ This is meant to be the schematic for the cushion's microcontroller and its resp
 
 
 Follow up:
--adding multiplexers CD74HC4067
-- if results are too noisy or unacceptable we can add two MCP3008 ADCs [ 8 pins each for the 16 pins] 
+-Naming issues: double-check that. 
+- if results are too noisy or unacceptable, we can add two MCP3008 ADCs [ 8 pins each for the 16 pins] 
